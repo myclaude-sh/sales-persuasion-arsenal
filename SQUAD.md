@@ -1,27 +1,21 @@
-# Sales Persuasion Arsenal
-
-[![Available on MyClaude](https://myclaude.sh/badge/available.svg)](https://myclaude.sh/p/sales-persuasion-arsenal)
-
-4 mentes de vendas e persuasão: Jeremy Miner (NEPQ), Eugene Schwartz (copywriting), Taki Moore (coaching business), Seth Godin (marketing/tribes). Use when: vender mais, persuadir melhor, criar copy, construir audiência.
-
-| | |
-|---|---|
-| **Category** | squads |
-| **Version** | 1.0.0 |
-| **Author** | [@vinicius-caetano](https://myclaude.sh/u/vinicius-caetano) |
-| **License** | MIT |
-| **Price** | $249.00 |
-
-## Installation
-
-This is a paid product. Purchase on the [MyClaude Marketplace](https://myclaude.sh/p/sales-persuasion-arsenal) to install.
-
-```bash
-# After purchase:
-myclaude install sales-persuasion-arsenal
-```
-
-## About
+---
+name: sales-persuasion-arsenal
+display_name: Sales Persuasion Arsenal
+description: "4 mentes de vendas e persuasão: Jeremy Miner (NEPQ), Eugene Schwartz (copywriting), Taki Moore (coaching business), Seth Godin (marketing/tribes). Use when: vender mais, persuadir melhor, criar copy, "
+version: 1.0.0
+author: vinicius-caetano
+license: MIT
+tags:
+  - "sales"
+  - "persuasion"
+  - "copywriting"
+  - "marketing"
+  - "coaching"
+  - "NEPQ"
+  - "tribes"
+marketplace_url: "https://myclaude.sh/p/sales-persuasion-arsenal"
+user-invocable: true
+---
 
 # Sales & Persuasion Arsenal
 
@@ -81,13 +75,3 @@ MIT
 
 <sub>Built with MyClaude Studio Engine</sub>
 
-
-## Tags
-
-`sales` `persuasion` `copywriting` `marketing` `coaching` `NEPQ` `tribes`
-
----
-
-*Published on [MyClaude Marketplace](https://myclaude.sh/p/sales-persuasion-arsenal) — the curated marketplace for the Claude Code ecosystem.*
-
-*This repository is automatically mirrored from MyClaude. To publish updates, use `myclaude publish`.*

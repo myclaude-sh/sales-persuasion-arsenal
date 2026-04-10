@@ -1,0 +1,15 @@
+name: sales-persuasion-arsenal
+version: 1.0.0
+type: squad
+description: "4 mentes de vendas e persuasão: Jeremy Miner (NEPQ), Eugene Schwartz (copywriting), Taki Moore (coaching business), Seth Godin (marketing/tribes). Use when: vender mais, persuadir melhor, criar copy, construir audiência."
+price: 249
+license: MIT
+entry: SQUAD.md
+tags:
+  - sales
+  - persuasion
+  - copywriting
+  - marketing
+  - coaching
+  - NEPQ
+  - tribes
